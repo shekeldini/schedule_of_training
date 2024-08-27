@@ -8,6 +8,9 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 pytest = "^8.3.2"
+pydantic = "^2.8.2"
+pydantic-settings = "^2.4.0"
+python-telegram-bot = "^21.4"
 
 
 [build-system]

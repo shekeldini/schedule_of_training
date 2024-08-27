@@ -223,5 +223,5 @@ cython_debug/
 /test/ete-test/junit.xml
 
 logs
-config.env
+.env
 *.db
